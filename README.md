@@ -7,7 +7,7 @@ Technologies used:
 - CSS
 - GitHub
 - GitHub Pages
-- ChatGPT
+- ChatGPTs
 
 Website:
 https://moustafael-gendy.github.io
