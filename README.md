@@ -2,13 +2,12 @@
 
 This repository hosts my professional GitHub portfolio for IS 3060.
 
-The portfolio highlights my interests in AI, automation, business, information systems, and solving real-world problems.
-
 Technologies used:
 - HTML
 - CSS
 - GitHub
 - GitHub Pages
+- ChatGPT
 
 Website:
-https://github.com/MoustafaEl-Gendy
+https://moustafael-gendy.github.io
